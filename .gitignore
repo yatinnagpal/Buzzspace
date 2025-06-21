@@ -1,4 +1,24 @@
-.env
+# Python
 __pycache__/
-auth-env/
 *.pyc
+*.pyo
+
+# Virtual Env
+auth-env/
+
+# Environment variables
+.env
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Docker
+*.log
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
