@@ -25,7 +25,7 @@ Buzzspace is a real-time, event-driven messaging platform built using microservi
 
 | Layer | Tech |
 |-------|------|
-| 💻 Frontend | Next.js
+| 💻 Frontend | React.js
 | 🌐 API Gateway | NGINX
 | 🧩 Microservices | Express.js, FastAPI
 | 🔄 Communication | Kafka + REST/gRPC |
